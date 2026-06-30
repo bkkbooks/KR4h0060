@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR4h0060/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4h0060/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 月泉吟社詩
+  date: '2015-08-25 00:34:14.311176'
+  source:
+    repository: kanripo
+    path: KR4h0060
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4h0060_000-WYG.yaml, hash: 'sha256:50885ab680ce943f32ec3d6ebaee4394220d1a2865602b89fd8de4a269f0e55e'}
+  - {seq: 1, filename: KR4h0060_001-WYG.yaml, hash: 'sha256:db08cbef12e21524932b1f487c38ec21fe7dd5e259faa956e5cff5ba71e4d115'}
+  - {seq: 2, filename: KR4h0060_002-WYG.yaml, hash: 'sha256:b47b4a111bdf8d1279031cb9caf941dfdfc95c16b8ea55b74a8f5327fbf3d7fb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4h0060_000-WYG.markers.yaml, hash: 'sha256:b1344c969ee9cb4081c2a9849cba25e3ad04e1aed6fbdcfb222a66085ed38946'}
+  - {seq: 1, role: markers, filename: assets/KR4h0060_001-WYG.markers.yaml, hash: 'sha256:6380c2c4c249a8ad896925c1beab00021cec7154681fa9b79a049d21bcd04134'}
+  - {seq: 2, role: markers, filename: assets/KR4h0060_002-WYG.markers.yaml, hash: 'sha256:673e09f25a7fd73cfba53614312a53be25458f71af6b80a7757ce8ea12060ff2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4h0060_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 715
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0060_WYG_000-4a
+    span:
+    - body
+    - 715
+    - 947
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4h0060_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 855
+  label: 月泉吟社詩上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4h0060_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 12290
+  label: 月泉吟社詩下
+  type: section
+  level: 1
+hash: sha256:55c687ec187973c4ff453d1ca48cab78ac544adbea82a152865eb2c1f98ec51a
