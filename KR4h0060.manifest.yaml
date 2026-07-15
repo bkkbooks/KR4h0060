@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4h0060/v1
 canonical_location: https://kanripo.org/bkk/KR4h0060/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 月泉吟社詩
   date: '2015-08-25 00:34:14.311176'
@@ -20,13 +20,13 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4h0060_000.yaml, hash: 'sha256:4581fac76052cc4e5b08bf26174b9fb08a1600e15b6b0187ac62784a6beedd4e'}
-  - {seq: 1, filename: KR4h0060_001.yaml, hash: 'sha256:5f9270ff8e8871abcb99572081deb1efa8ea2c4b41b882c933e9d89a6d0c3b87'}
-  - {seq: 2, filename: KR4h0060_002.yaml, hash: 'sha256:7505ba04f69e0c589bcf9e8db9a0d446a6bd8e0d4bddc3e7e16897e159e25e4d'}
+  - {seq: 0, filename: KR4h0060_000.yaml, hash: 'sha256:baaeebbc93db736e88b53612b3f30d17ab58a8a4f191ae34f5fccec6c06186ad'}
+  - {seq: 1, filename: KR4h0060_001.yaml, hash: 'sha256:a9b6b343c66c2f7638c9ea2787aadf224c0007238e215e93bbd365796eab2c2f'}
+  - {seq: 2, filename: KR4h0060_002.yaml, hash: 'sha256:3f3da4e9896a9e0a4fda23ad61a0211915ad8622673505586ebb87d9d923f6bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0060_000.markers.yaml, hash: 'sha256:21b8243afe405566a4c9b613d587879f75acce469d6bcacb47e324591e977962'}
-  - {seq: 1, role: markers, filename: assets/KR4h0060_001.markers.yaml, hash: 'sha256:4d54fb55b23b96381ff82b79198bbff973eaf9b1e8fe373a2648c596c930d39c'}
-  - {seq: 2, role: markers, filename: assets/KR4h0060_002.markers.yaml, hash: 'sha256:8c4f7983217335aefabc6bc5027f9dbdb56e7615523f88e53b62a251f20be482'}
+  - {seq: 0, role: markers, filename: assets/KR4h0060_000.markers.yaml, hash: 'sha256:2010174e2455e9b4e2521f9625e34ddeda219d1333964ae79cffafbcf1d79aec'}
+  - {seq: 1, role: markers, filename: assets/KR4h0060_001.markers.yaml, hash: 'sha256:58f58ade8ee0cc6d40188fb37f6bc2402ac4bcaabef804f615c6706ed2e46c75'}
+  - {seq: 2, role: markers, filename: assets/KR4h0060_002.markers.yaml, hash: 'sha256:b6211cf50978b3d86e99700f9a921329bbb11f25582e916e0a79c9ab462d8ea2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,4 +68,7 @@ table_of_contents:
   label: 月泉吟社詩下
   type: section
   level: 1
-hash: sha256:237e555de447d6d2f71af0cc977a9251cbf880461dc6acbb97e8ce7158f70af1
+hash: sha256:01a2dbf58a2d1d0a3804e06dbf99b6c9802ace5710beca5ae9cb4c25128a8412
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
