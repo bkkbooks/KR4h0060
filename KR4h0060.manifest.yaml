@@ -24,9 +24,9 @@ assets:
   - {seq: 1, filename: KR4h0060_001.yaml, hash: 'sha256:a9b6b343c66c2f7638c9ea2787aadf224c0007238e215e93bbd365796eab2c2f'}
   - {seq: 2, filename: KR4h0060_002.yaml, hash: 'sha256:3f3da4e9896a9e0a4fda23ad61a0211915ad8622673505586ebb87d9d923f6bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0060_000.markers.yaml, hash: 'sha256:2010174e2455e9b4e2521f9625e34ddeda219d1333964ae79cffafbcf1d79aec'}
-  - {seq: 1, role: markers, filename: assets/KR4h0060_001.markers.yaml, hash: 'sha256:58f58ade8ee0cc6d40188fb37f6bc2402ac4bcaabef804f615c6706ed2e46c75'}
-  - {seq: 2, role: markers, filename: assets/KR4h0060_002.markers.yaml, hash: 'sha256:b6211cf50978b3d86e99700f9a921329bbb11f25582e916e0a79c9ab462d8ea2'}
+  - {seq: 0, role: markers, filename: assets/KR4h0060_000.markers.yaml, hash: 'sha256:ea08415dcac78ab2b711757fc57cf1fd00028c9b485ec2849a22e9217d8aad3b'}
+  - {seq: 1, role: markers, filename: assets/KR4h0060_001.markers.yaml, hash: 'sha256:8a6e523444dbe1329ab0b0f016af2f7bcfd46ee850f843f4d1bdcd306c5a3aa4'}
+  - {seq: 2, role: markers, filename: assets/KR4h0060_002.markers.yaml, hash: 'sha256:e96ca10b66196908b7faa80058dfdf36db46db4294f426970af4453927057ef8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,7 +68,7 @@ table_of_contents:
   label: 月泉吟社詩下
   type: section
   level: 1
-hash: sha256:01a2dbf58a2d1d0a3804e06dbf99b6c9802ace5710beca5ae9cb4c25128a8412
+hash: sha256:65b4165873de489470efa9c4dc7c6e5d6eb0eac847b0a124123e4f2b489725d3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
